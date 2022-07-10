@@ -4,7 +4,7 @@ const {addWord, getStory} = require('./storyUtils');
 
 
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 
