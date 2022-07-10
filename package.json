@@ -1,0 +1,22 @@
+{
+  "name": "speedrunproject",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000p\u0000e\u0000e\u0000d\u0000r\u0000u\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgarcia1993/speedrun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgarcia1993/speedrun/issues"
+  },
+  "homepage": "https://github.com/jjgarcia1993/speedrun#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
